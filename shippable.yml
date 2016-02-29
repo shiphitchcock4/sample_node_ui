@@ -10,7 +10,7 @@ build:
   ci:
     - ps -eax
     - ls -al
-    - hrteehdjmddj
+ 
 #archive: true  
     
 integrations:
