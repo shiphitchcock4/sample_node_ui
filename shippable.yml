@@ -22,8 +22,8 @@ integrations:
     - integrationName: email
       type: email
       recipients: 
-        - shiphitchcock1@gmail.com
-        #- varsha@shippable.com
+        - shiphitchcock4@gmail.com
+        - sreya@shippable.com
       on_start: always
       on_success: always  
       on_failure: always
