@@ -15,10 +15,6 @@ build:
     #PR
     
 integrations:
-  hub:
-    - integrationName: ship-docker
-      type: docker
-      
   notifications:
     - integrationName: email
       type: email
